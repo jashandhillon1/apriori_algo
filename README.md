@@ -1,1 +1,3 @@
 # apriori_algo
+This respo contains a simple project based upon apriori algo used in ML.This model is basically used in sensing the consumer behaviour towards a particular item or product.This model tells us if any product is related to other.For eg-cusomers usually buy milk and bread together.This reveals that there is some sort of co-relation between bread and milk.Apriori algo helps us finding such relation between products.
+In this respo apriori.py is the program and apryori.py is used to import essential libraries for our task.Market_Basket_Optimisation.csv is our data on which we perform our task and get the result.
